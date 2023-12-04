@@ -130,3 +130,5 @@ EMAIL_PORT = 1025
 # Needs compatibility with older Django!
 SESSION_SERIALIZER = "django.contrib.sessions.serializers.PickleSerializer"
 SESSION_COOKIE_HTTPONLY = False
+
+
